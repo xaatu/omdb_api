@@ -52,13 +52,13 @@ For the limited amount of time i've had to work on it, I was only really able to
 
 Next steps - 
 
--Improve UI
--"Random Movie" button on Home screen
--Image Carousel on Home screen
--Movie Quote error messages
--Search Filtering 
--Additional screen for movie details
--Random movie quote button on main screen - linking to Movie Details page
+- Improve UI
+- "Random Movie" button on Home screen
+- Image Carousel on Home screen
+- Movie Quote error messages
+- Search Filtering 
+- Additional screen for movie details
+- Random movie quote button on main screen - linking to Movie Details page
 
 ## Final Notes
 
