@@ -4,11 +4,14 @@ Shape Software Developer Apprenticeship Task
 
 This is my attempt at creating an OMDB API App in flutter.
 
+## Introduction
 
 Having watched hours of videos to try and familiarise myself with Flutter/Dart, I gave it a go and challenged myself to spend no more than 6 hours on an app. I may have gone slightly over, but due to issues with troubleshooting my emulator/simulator giving a black screen I lost a bit of time.
 
 
 While basic, the app has a few main features, along with some smaller design and error handling decisions, which I think make it scalable and easier to update - as I hope to do a little bit over the next few days.
+
+## Features
 
 Movie Searching (API Integration)-
 
@@ -45,15 +48,19 @@ Testing -
 
 For the limited amount of time i've had to work on it, I was only really able to test it briefly on Iphone and Ipad simulators - but from what i've seen the Flutter widgets adapt well to different sized screens
 
+## Updates
+
 Next steps - 
 
-Improve UI
-"Random Movie" button on Home screen
-Image Carousel on Home screen
-Movie Quote error messages
-Search Filtering 
-Additional screen for movie details
-Random movie quote button on main screen - linking to Movie Details page
+-Improve UI
+-"Random Movie" button on Home screen
+-Image Carousel on Home screen
+-Movie Quote error messages
+-Search Filtering 
+-Additional screen for movie details
+-Random movie quote button on main screen - linking to Movie Details page
 
+## Final Notes
 
 Finally, if some of the comments on my .dart files seem messy, I apologise but my plan is to improve upon this app and they give me pointers of what to research more into and brief descriptions of features. I have no doubt that as I become more adept programming in this new language, neater and more concise comments will follow.
+
