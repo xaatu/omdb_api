@@ -82,7 +82,7 @@ class MovieSearchScreenState extends State<MovieSearchScreen> {
                               return ListTile(
                                 leading: movie.poster != 'N/A'
                                     ? Image.network(movie.poster)
-                                    : const Icon(Icons.movie),
+                                    : const Icon(Icons.movie), // default movie icon for if there isn't a poster - https://api.flutter.dev/flutter/material/Icons-class.html
                                 title: Text(movie.title),
                                 subtitle: Text('Year: ${movie.year}'),
                               );
