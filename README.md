@@ -62,5 +62,10 @@ Next steps -
 
 ## Final Notes
 
-Finally, if some of the comments on my .dart files seem messy, I apologise but my plan is to improve upon this app and they give me pointers of what to research more into and brief descriptions of features. I have no doubt that as I become more adept programming in this new language, neater and more concise comments will follow.
+ I made this app by starting off with the default my_first_app and, upon checking the GitHub repository, realised my mistake.
+
+ Finally, if some of the comments on my .dart files seem messy, I apologise but my plan is to improve upon this app and they give me pointers of what to research more into and brief descriptions of features. I have no doubt that as I become more adept programming in this new language, neater and more concise comments will follow.
+
+
+
 
