@@ -2,7 +2,7 @@
 
 Shape Software Developer Apprenticeship Task
 
-This is my attempt at creating an OMDB API App in flutter.
+This is my attempt at creating an OMDB API App in Flutter.
 
 ## Introduction
 
@@ -33,20 +33,20 @@ Displayed in list format and scrollable. Poster, Title and Year format is easy t
 
 ### Loading  - 
 
-Features a loading spinner while data is fetching to show the users progress is being made.
+Features a loading spinner while data is fetching to show the user progress is being made.
 
 ### Error Handling - 
 
 Error messages if no movie is found. With more time I would maybe have it cycle through movie quotes so it fits more with the theme of the website.
-For example "Houston, we have a problem" - followed by the Title of the film, and a brief explanation that the user may try again with a different search.
+For example "Houston, we have a problem" - followed by the title of the film, and a brief explanation that the user may try again with a different search.
 
 ### Navigation - 
 
-Users can flick between the two screens with ease. Admittedly, they may not want or need to in its current state, but it gives me a good starting point to improve on.
+Users can flick between the two screens with ease. Admittedly, they may not want or need to in its current state, but it gives me a good starting point to improve upon.
 
 ### Testing - 
 
-For the limited amount of time i've had to work on it, I was only really able to test it briefly on Iphone and Ipad simulators - but from what i've seen the Flutter widgets adapt well to different sized screens
+For the limited amount of time I've had to work on it, I was only really able to test it briefly on IPhone and IPad simulators - but from what I've seen the Flutter widgets adapt well to different sized screens
 
 ## Updates
 
